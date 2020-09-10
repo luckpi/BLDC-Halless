@@ -1,5 +1,5 @@
 {
-    "name": "BLDC-Hallless - 优化代码",
+    "name": "BLDC-Hallless",
     "type": "C51",
     "mode": "Release",
     "toolchain": "Keil_C51",

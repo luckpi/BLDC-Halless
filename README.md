@@ -1,4 +1,4 @@
-# BLDC-Hallless
+# BLDC-Halless
 
 单片机: 基于JMT18F003Plus(51内核) </br>
 过零点检测：***纯ADC检测*** </br>
