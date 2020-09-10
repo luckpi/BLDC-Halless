@@ -1,0 +1,235 @@
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/8/31|10:49:43|GMT+0800
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/8/31|13:06:58|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/8/31|13:33:20|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/8/31|16:59:39|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/1|08:41:21|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/1|10:27:18|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|09:45:57|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|13:07:39|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|13:07:51|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|15:14:34|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|15:42:38|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|16:05:51|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|16:39:52|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|16:42:13|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|16:48:24|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|17:09:38|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/2|17:32:36|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/3|08:39:11|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/3|10:09:59|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/3|13:18:52|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/3|13:36:46|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/3|16:53:50|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|08:35:24|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|13:05:49|GMT+0800
+[Hidden] : EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+	at Socket._write (internal/net.js:58:25)
+	at doWrite (_stream_writable.js:418:12)
+	at writeOrBuffer (_stream_writable.js:402:5)
+	at Socket.Writable.write (_stream_writable.js:302:11)
+	at Object.execSync (child_process.js:668:20)
+	at Object.execSync (electron/js2c/asar.js:696:23)
+	at b.getMacroList (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:66680)
+	at new b (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:66522)
+	at new u (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:57894)
+	at Function.getInstance (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:58043)
+	at M.loadToolchain (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:94107)
+	at M.Load (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:89771)
+	at P._OpenProject (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:332467)
+	at EventEmitter.<anonymous> (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:325310)
+	at Object.onceWrapper (events.js:291:20)
+	at EventEmitter.emit (events.js:203:13)
+	at Function.emit (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:4451)
+	at EventEmitter.<anonymous> (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:163100)
+	at EventEmitter.emit (events.js:203:13)
+	at Function.emit (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:4451)
+	at P.LoadWorkspaceProject (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:325359)
+	at new P (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:323960)
+	at new t.ProjectExplorer (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:336990)
+	at t.activate (c:\Users\G\.vscode\extensions\cl.eide-1.18.5\dist\extension.js:1:166804)
+	at Function._callActivateOptional (d:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:877:509)
+	at Function._callActivate (d:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:877:160)
+	at d:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:875:492
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+	at async Promise.all (index 7)
+	at async Promise.all (index 0)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|14:47:21|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|14:55:39|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|15:41:49|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|16:02:29|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|16:04:13|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|16:34:46|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|17:20:17|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/4|17:24:58|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|09:03:25|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|09:42:50|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|13:01:27|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|14:41:55|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|15:19:12|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/5|17:08:06|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/8|08:29:57|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/9|17:19:13|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/9|17:19:19|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|09:46:36|GMT+0800
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|09:48:08|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|10:39:14|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|11:24:45|GMT+0800
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|13:24:53|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|13:55:25|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)

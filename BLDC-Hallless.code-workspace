@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.intelliSenseMode": "gcc-x86",
+        "files.autoGuessEncoding": false,
+        "files.encoding": "utf8",
+        "C_Cpp.default.cppStandard": "c++11",
+        "C_Cpp.default.cStandard": "c99",
+        "EIDE.ARM.Option.AutoGenerateRTE_Components": false,
+        "C_Cpp.errorSquiggles": "Disabled",
+        "files.associations": {
+            "*.C": "c",
+            ".eideignore": "ignore",
+            "debug.h": "c",
+            "pwm.h": "c",
+            "timer.h": "c"
+        }
+    }
+}

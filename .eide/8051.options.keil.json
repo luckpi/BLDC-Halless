@@ -1,0 +1,22 @@
+{
+    "beforeBuildTasks": [],
+    "afterBuildTasks": [
+        {
+            "name": "clean",
+            "command": "cd \"${OutDir}\" && del *._* *.lst *.lnp"
+        }
+    ],
+    "global": {
+        "ram-mode": "SMALL",
+        "rom-mode": "LARGE"
+    },
+    "c/cpp-compiler": {
+        "optimization-type": "SPEED",
+        "optimization-level": "level-8"
+    },
+    "asm-compiler": {},
+    "linker": {
+        "remove-unused": true
+    },
+    "version": 1
+}

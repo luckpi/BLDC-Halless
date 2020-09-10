@@ -1,0 +1,59 @@
+{
+    "name": "BLDC-Hallless - 优化代码",
+    "type": "C51",
+    "mode": "Release",
+    "toolchain": "Keil_C51",
+    "uploader": "stcgal",
+    "dependenceList": [
+        {
+            "groupName": "custom",
+            "depList": [
+                {
+                    "name": "default",
+                    "incList": [],
+                    "libList": [],
+                    "sourceDirList": [],
+                    "defineList": []
+                }
+            ]
+        },
+        {
+            "groupName": "build-in",
+            "depList": [
+                {
+                    "name": "default",
+                    "incList": [],
+                    "libList": [],
+                    "sourceDirList": [],
+                    "defineList": []
+                },
+                {
+                    "name": "toolchain",
+                    "incList": [
+                        "D:\\Keil_v5\\C51\\INC"
+                    ],
+                    "sourceDirList": [],
+                    "libList": [
+                        "D:\\Keil_v5\\C51\\LIB"
+                    ],
+                    "defineList": [
+                        "__UVISION_VERSION=526"
+                    ]
+                }
+            ]
+        }
+    ],
+    "compileConfig": {
+        "options": ""
+    },
+    "srcDirs": [
+        ".\\src"
+    ],
+    "excludeList": [],
+    "outDir": ".\\out",
+    "uploadConfig": {
+        "bin": ".\\out\\Release\\BLDC-Hallless - 优化代码.hex",
+        "eepromImgPath": "null",
+        "options": "./.EIDE/stc.flash.json"
+    }
+}

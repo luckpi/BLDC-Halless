@@ -1,0 +1,336 @@
+[2020-08-31 13:33:24]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:33:43]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:35:02]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:36:19]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:36:46]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:38:00]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:41:04]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:57:15]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\PWM\pwm.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:57:43]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\PWM\pwm.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 13:57:59]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:06:08]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\PWM\pwm.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:06:33]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\PWM\pwm.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:06:49]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:07:14]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:07:27]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:08:40]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:17:02]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:17:32]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:17:48]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:21:43]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:48:06]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:48:27]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:48:46]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:49:07]	link failed !, exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 14:49:28]	link failed !, exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 15:11:17]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 15:53:37]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:26:25]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:39:12]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:41:04]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:42:00]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:43:29]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:44:06]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:44:16]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:45:42]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:47:01]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:48:58]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:50:38]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:51:15]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:51:26]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:53:20]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:54:46]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:54:54]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:55:08]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:56:03]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:58:31]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 16:59:42]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:00:11]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:00:35]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:01:49]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:05:20]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:05:29]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:06:08]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:07:58]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:09:16]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:09:45]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:10:12]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:10:20]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:10:57]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:12:22]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:13:12]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:13:20]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:13:39]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:13:47]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:14:02]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:14:38]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:14:53]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:16:19]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:19:44]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:20:09]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:20:56]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:23:15]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:24:02]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:28:31]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:29:00]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:29:12]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:29:46]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:30:09]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:31:17]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:31:34]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:31:43]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:32:19]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-08-31 17:33:14]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 08:22:38]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 08:23:37]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 08:29:56]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 08:30:28]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Protect\protect.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 10:43:52]	link failed !, exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 13:57:13]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 13:57:50]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 17:05:22]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 17:06:47]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 17:07:49]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 17:08:18]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-01 17:08:27]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-02 10:03:10]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-02 13:16:41]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Common\common.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-02 13:18:17]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Timer\timer.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-02 13:25:37]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Control\control.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-03 13:40:37]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-03 13:56:12]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 08:43:31]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Hallsensor\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 08:44:02]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\ADC\adc.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 09:20:27]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\Control\control.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 17:26:57]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 17:28:30]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-04 17:28:42]	compilation failed at : "c:\Users\G\Desktop\F003-BLDC - Hallless\BLDC-Hallless\src\IPD\ipd.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-10 11:02:13]	compilation failed at : "c:\Users\G\Desktop\BLDC-Hallless - 优化代码\src\Halless\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-10 11:02:56]	compilation failed at : "c:\Users\G\Desktop\BLDC-Hallless - 优化代码\src\Halless\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-10 11:03:00]	compilation failed at : "c:\Users\G\Desktop\BLDC-Hallless - 优化代码\src\Halless\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-10 11:03:14]	compilation failed at : "c:\Users\G\Desktop\BLDC-Hallless - 优化代码\src\Halless\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-09-10 11:03:33]	compilation failed at : "c:\Users\G\Desktop\BLDC-Hallless - 优化代码\src\Halless\halless.c", exit code: 2
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
