@@ -240,3 +240,12 @@ Error: read ECONNRESET
 [Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
 Error: read ECONNRESET
 	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+
+
+[37444335-3334-3838-5248-48BA4E5ED075] : log at : 2020/9/10|14:36:51|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: read ECONNRESET
+	at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+
+

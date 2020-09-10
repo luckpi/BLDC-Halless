@@ -15,7 +15,7 @@
 void ADC_Init()
 {
     SFRPAGE = 0x02;
-    ADC_CLK_DIV = 0x06; // AD时钟分频[7分频]	0x06
+    ADC_CLK_DIV = 0x02; // AD时钟分频[7分频]	0x06
     SFRPAGE = 0x00;
     ADCETC = 0x00;
     ADCCON1 = 0x00; // 无符号整数，正常模式，内部2.5V参考电压
