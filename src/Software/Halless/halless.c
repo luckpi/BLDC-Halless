@@ -61,48 +61,48 @@ void CheckZeroCrossing()
     if (++Halless.Filter_Count >= Halless.Filter_Cnt)
     {
         // Halless.Filter_Count = Halless.Filter_Cnt;
-        ADCSample.NeutralPoint = (ADCSample.UBemf + ADCSample.VBemf + ADCSample.WBemf) / 3;
+        ADCSample.NeutralPoint = (ADCSample.UBemf + ADCSample.VBemf + ADCSample.WBemf);
         if (HoldParm.RotorDirection == CW)
         {
             switch (Halless.Phase)
             {
             case 0:
-                if (ADCSample.WBemf < ADCSample.NeutralPoint) //6
+                if ((ADCSample.WBemf + ADCSample.WBemf + ADCSample.WBemf) < ADCSample.NeutralPoint) //6
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 1:
-                if (ADCSample.VBemf > ADCSample.NeutralPoint) //2
+                if ((ADCSample.VBemf + ADCSample.VBemf + ADCSample.VBemf) > ADCSample.NeutralPoint) //2
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 2:
-                if (ADCSample.UBemf < ADCSample.NeutralPoint) //3
+                if ((ADCSample.UBemf + ADCSample.UBemf + ADCSample.UBemf) < ADCSample.NeutralPoint) //3
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 3:
-                if (ADCSample.WBemf > ADCSample.NeutralPoint) //1
+                if ((ADCSample.WBemf + ADCSample.WBemf + ADCSample.WBemf) > ADCSample.NeutralPoint) //1
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 4:
-                if (ADCSample.VBemf < ADCSample.NeutralPoint) //5
+                if ((ADCSample.VBemf + ADCSample.VBemf + ADCSample.VBemf) < ADCSample.NeutralPoint) //5
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 5:
-                if (ADCSample.UBemf > ADCSample.NeutralPoint) //4
+                if ((ADCSample.UBemf + ADCSample.UBemf + ADCSample.UBemf) > ADCSample.NeutralPoint) //4
                 {
                     Halless.Phase = 0;
                     CalcSpeedTime();
@@ -118,42 +118,42 @@ void CheckZeroCrossing()
             switch (Halless.Phase)
             {
             case 0:
-                if (ADCSample.WBemf > ADCSample.NeutralPoint) //1
+                if ((ADCSample.WBemf + ADCSample.WBemf + ADCSample.WBemf) > ADCSample.NeutralPoint) //1
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 1:
-                if (ADCSample.UBemf < ADCSample.NeutralPoint) //3
+                if ((ADCSample.UBemf + ADCSample.UBemf + ADCSample.UBemf) < ADCSample.NeutralPoint) //3
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 2:
-                if (ADCSample.VBemf > ADCSample.NeutralPoint) //2
+                if ((ADCSample.VBemf + ADCSample.VBemf + ADCSample.VBemf) > ADCSample.NeutralPoint) //2
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 3:
-                if (ADCSample.WBemf < ADCSample.NeutralPoint) //6
+                if ((ADCSample.WBemf + ADCSample.WBemf + ADCSample.WBemf) < ADCSample.NeutralPoint) //6
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 4:
-                if (ADCSample.UBemf > ADCSample.NeutralPoint) //4
+                if ((ADCSample.UBemf + ADCSample.UBemf + ADCSample.UBemf) > ADCSample.NeutralPoint) //4
                 {
                     Halless.Phase++;
                     CalcSpeedTime();
                 }
                 break;
             case 5:
-                if (ADCSample.VBemf < ADCSample.NeutralPoint) //5
+                if ((ADCSample.VBemf + ADCSample.VBemf + ADCSample.VBemf) < ADCSample.NeutralPoint) //5
                 {
                     Halless.Phase = 0;
                     CalcSpeedTime();
@@ -240,22 +240,22 @@ void ADC_ISR() ADC_IR_Num
         break;
     }
 #if (EN_UART_TX_ADC)
-//u16Temp = mcState;
-//u16Temp = HoldParm.PWMDutyCycle;
-//u16Temp = HoldParm.RequireSpeed;
-//u16Temp = ADCSample.Current;
-u16Temp = ADCSample.Voltage;
-//u16Temp = ADCSample.CurrentOffset;
-// u16Temp = ADCSample.Average;
-//u16Temp = ADCSample.Temperature;
+    //u16Temp = mcState;
+    //u16Temp = HoldParm.PWMDutyCycle;
+    //u16Temp = HoldParm.RequireSpeed;
+    //u16Temp = ADCSample.Current;
+    u16Temp = ADCSample.Voltage;
+    //u16Temp = ADCSample.CurrentOffset;
+    // u16Temp = ADCSample.Average;
+    //u16Temp = ADCSample.Temperature;
 
-//u16Temp = HoldParm.RequireSpeed;
+    //u16Temp = HoldParm.RequireSpeed;
 
-//u16Temp = HoldParm.RotorDirection;
+    //u16Temp = HoldParm.RotorDirection;
 
-//u16Temp = HallParm.HallState;
-//u16Temp = HallParm.HallUniteState;
-//u16Temp = HallParm.HallTime;
-UART_TX_EXT(u16Temp);
+    //u16Temp = HallParm.HallState;
+    //u16Temp = HallParm.HallUniteState;
+    //u16Temp = HallParm.HallTime;
+    UART_TX_EXT(u16Temp);
 #endif
 }
